@@ -11,7 +11,7 @@ The user interface of the BNTV for the connection to the [BNTV] (https://github.
 
 ```
 $ git https://github.com/bentoti/iptv-fullstack.git
-$ cd iptv-fullstack
+$ cd iptv-fullstack/client
 $ yarn install
 $ npm run start
 ```
