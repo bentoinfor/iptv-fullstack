@@ -1,0 +1,9 @@
+{
+  "name": "bntv",
+  "version": "1.0.0",
+  "description": "project iptv fullstack",
+  "main": "index.js",
+  "repository": "https://github.com/bentoti/iptv-client.git",
+  "author": "Antonio Bento <bento.ti@outlook.com>",
+  "license": "MIT"
+}
