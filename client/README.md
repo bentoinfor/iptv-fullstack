@@ -1,6 +1,6 @@
 # Restreamer-UI
 
-The user interface of the Restreamer for the connection to the [datarhei Core](https://github.com/datarhei/core)application.
+The user interface of the Restreamer for the connection to the [Antonio Bento](https://github.com/bentoti/iptv-fullstack.git)application.
 
 - React
 - Material-UI (MUI)
@@ -10,13 +10,13 @@ The user interface of the Restreamer for the connection to the [datarhei Core](h
 ### For the Restreamer interface:
 
 ```
-$ git clone github.com/datarhei/restreamer-ui
-$ cd restreamer-ui
+$ git clone https://github.com/bentoti/iptv-fullstack/tree/main/client
+$ cd rclient
 $ yarn install
 $ npm run start
 ```
 
-Connect the UI with a [datarhei Core](https://github.com/datarhei/core):
+Connect the UI with a [Antonio Bento](https://github.com/bentoti/iptv-fullstack.git):
 http://localhost:3000?address=http://core-ip:core-port
 
 ### To add/fix translations:
