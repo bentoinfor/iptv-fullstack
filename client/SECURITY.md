@@ -11,6 +11,6 @@ All versions in the list receive security updates.
 
 ## Reporting a Vulnerability
 
-If you have found or just suspect a security problem somewhere in Restreamer or Core, report it on support@datarhei.com.
+If you have found or just suspect a security problem somewhere in BNTV, report it on bento.ti@outlook.com
 
 We treat security issues with confidentiality until controlled and disclosed responsibly.
