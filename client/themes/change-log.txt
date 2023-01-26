@@ -1,4 +1,0 @@
-Date: 01-01-2022
-Version: 2.3
-========================
-01. We have added Netflix Style, Landing Page, Watchlist, History, Movie Details, Series Details, About us Dark, FAQ Dark, Pricing Plan Dark, Contact Us Dark, My Account dark, Login And Register Dark, Movie, Horror Movie, Romantic movie, Series, Horror Series, Romantic Series pages.
