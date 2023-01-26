@@ -1,4 +1,4 @@
-# Restreamer-UI
+# BNTV FULLSTACK
 
 The user interface of the BNTV for the connection to the [BNTV](https://github.com/bentoti/iptv-fullstack.git)application.
 
